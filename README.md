@@ -1,4 +1,4 @@
-# Speech_Therapy_for autistic kids
+# Speech_Therapy for autistic kids
 Autistic children can find it hard to relate to and communicate with other people. They might be slower to develop language, have no language at all, or have significant 
 problems with understanding or using spoken language. They might not use gestures to make up for the problems they have with words.
 
